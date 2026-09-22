@@ -1,2 +1,2 @@
-# Kinematic-
-Ich habe versucht Pysik in c# zu machen ,um meine Kentnisse in c# zu maximilsiren 
+# Kinematic
+Ich habe versucht Pysik in C# Project integrieren**** ,um meine Kentnisse in c# zu maximieren
